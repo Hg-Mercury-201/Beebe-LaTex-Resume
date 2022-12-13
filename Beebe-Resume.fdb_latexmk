@@ -1,10 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1654117574 "/Users/nathanbeebe/Software_Projects/LaTex/Beebe-LaTex-Resume/Beebe-Resume.tex" "Beebe-Resume.pdf" "Beebe-Resume" 1654117574
+["pdflatex"] 1670958901 "/Users/nathanbeebe/Software_Projects/LaTex/Beebe-LaTex-Resume/Beebe-Resume.tex" "Beebe-Resume.pdf" "Beebe-Resume" 1670958902
   "/Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1653931969 80937 91001db6d4ae332437b4b739862cda02 ""
-  "/Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1653931972 11548 e693de697396117cc7ae996481841a1d ""
-  "/Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1653931973 12668 70dc4546e049b283cb26f9e876f78cb3 ""
   "/Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1653931875 7037790 0877171ff94f8072c72a3ba199c6ff3c ""
-  "/Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1653931581 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "/Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1653931581 1460 8005ce585ff351dff78998923504da5e ""
   "/Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm" 1653931581 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm" 1653931581 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -75,10 +72,10 @@
   "/Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titlesec/titlesec.sty" 1653931887 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
   "/Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/verbatim.sty" 1653931583 7392 39729ae6a807e217edf1442cf8fab2c2 ""
   "/Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1653931591 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "/Users/nathanbeebe/Software_Projects/LaTex/Beebe-LaTex-Resume/Beebe-Resume.tex" 1654117573 8668 2c4034c67b05c22d90fd019d461f8f42 ""
-  "Beebe-Resume.aux" 1654117574 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "Beebe-Resume.out" 0 -1 0 "pdflatex"
-  "Beebe-Resume.tex" 1654117573 8668 2c4034c67b05c22d90fd019d461f8f42 ""
+  "/Users/nathanbeebe/Software_Projects/LaTex/Beebe-LaTex-Resume/Beebe-Resume.tex" 1670958900 8344 6542a90e03338dfa1dcf06fb8b5fcc3d ""
+  "Beebe-Resume.aux" 1670958901 975 a0e10aadc56e38d26e157be10472dd04 "pdflatex"
+  "Beebe-Resume.out" 1670958901 337 dd5497921cb498c29123708f6c7d9f7a "pdflatex"
+  "Beebe-Resume.tex" 1670958900 8344 6542a90e03338dfa1dcf06fb8b5fcc3d ""
   (generated)
   "Beebe-Resume.aux"
   "Beebe-Resume.log"

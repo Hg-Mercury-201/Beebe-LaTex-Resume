@@ -447,8 +447,18 @@ INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/tex/c
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
-OUTPUT Beebe-Resume.out
+INPUT ./Beebe-Resume.out
+INPUT Beebe-Resume.out
+INPUT ./Beebe-Resume.out
+INPUT Beebe-Resume.out
+INPUT ./Beebe-Resume.out
+INPUT Beebe-Resume.out
+INPUT ./Beebe-Resume.out
+INPUT Beebe-Resume.out
 OUTPUT Beebe-Resume.pdf
+INPUT ./Beebe-Resume.out
+INPUT ./Beebe-Resume.out
+OUTPUT Beebe-Resume.out
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr6.tfm
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi10.tfm
@@ -475,15 +485,10 @@ INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/latex-fonts/lasy10.tfm
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/latex-fonts/lasy7.tfm
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/latex-fonts/lasy5.tfm
-INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map
 INPUT Beebe-Resume.aux
 INPUT ./Beebe-Resume.out
 INPUT ./Beebe-Resume.out
-INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
-INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
-INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk
-INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.30)  1 JUN 2022 17:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.30)  13 DEC 2022 14:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -221,6 +221,7 @@ LaTeX Font Info:    ... okay on input line 66.
 \everyMPtoPDFconversion=\toks23
 )
 Package hyperref Info: Link coloring OFF on input line 66.
+ (Beebe-Resume.out) (Beebe-Resume.out)
 \@outlinefile=\write3
 \openout3 = `Beebe-Resume.out'.
 
@@ -235,60 +236,27 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 69.
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 91.
+(Font)              <7> on input line 83.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 91.
-
-Overfull \hbox (5.60886pt too wide) in paragraph at lines 97--99
-[]  
- []
-
-
-Overfull \hbox (5.60886pt too wide) in paragraph at lines 103--105
-[]  
- []
-
-
-/Users/nathanbeebe/Software_Projects/LaTex/Beebe-LaTex-Resume/Beebe-Resume.tex:153: LaTeX Error: \begin{itemize} on input line 86 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.153 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1
+(Font)              <5> on input line 83.
+ [1
 
 {/Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map}] (Beebe-Resume.aux)
-
-Package rerunfilecheck Warning: File `Beebe-Resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Beebe-Resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  7DA66CBF4DB6747ADCD9FDEC91CEC702;337.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 86 (\begingroup)
-### bottom level 
+Package rerunfilecheck Info: File `Beebe-Resume.out' has not changed.
+(rerunfilecheck)             Checksum: DD5497921CB498C29123708F6C7D9F7A;337.
+ ) 
 Here is how much of TeX's memory you used:
- 9027 strings out of 480549
- 146266 string characters out of 2892288
- 454053 words of memory out of 3000000
- 26848 multiletter control sequences out of 15000+600000
- 475527 words of font info for 52 fonts, out of 8000000 for 9000
+ 9033 strings out of 480549
+ 146454 string characters out of 2892288
+ 452196 words of memory out of 3000000
+ 26851 multiletter control sequences out of 15000+600000
+ 475192 words of font info for 51 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 72i,7n,77p,431b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
- </Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk> </Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Beebe-Resume.pdf (1 page, 103135 bytes).
+ 72i,7n,77p,413b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
+</Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Beebe-Resume.pdf (1 page, 102572 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
