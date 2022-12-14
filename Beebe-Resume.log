@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.30)  13 DEC 2022 14:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.30)  13 DEC 2022 20:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -248,13 +248,13 @@ Package rerunfilecheck Info: File `Beebe-Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  9033 strings out of 480549
  146454 string characters out of 2892288
- 452196 words of memory out of 3000000
+ 453196 words of memory out of 3000000
  26851 multiletter control sequences out of 15000+600000
  475192 words of font info for 51 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  72i,7n,77p,413b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
 </Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/nathanbeebe/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Beebe-Resume.pdf (1 page, 102572 bytes).
+Output written on Beebe-Resume.pdf (1 page, 102194 bytes).
 PDF statistics:
  61 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
